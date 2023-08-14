@@ -11,7 +11,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 
     if(true) {
-      // 1654516753925
+      // 1692033412322
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":false});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);
@@ -220,7 +220,7 @@ const App = () => {
 };
 _a = App;
 __webpack_require__.$Refresh$.register(_a, "App");
-_b(App, "exnzW0jjDmsTti58eV2kNPHwymA=", false, () => [react_i18next__WEBPACK_IMPORTED_MODULE_14__.useTranslation, _hooks_useModalHook__WEBPACK_IMPORTED_MODULE_12__["default"], _hooks_useFetch__WEBPACK_IMPORTED_MODULE_10__.useFetchGet]);
+_b(App, "yfyWMhjP+m/oDkhXktRI/IxcEGE=", false, () => [react_i18next__WEBPACK_IMPORTED_MODULE_14__.useTranslation, _hooks_useModalHook__WEBPACK_IMPORTED_MODULE_12__["default"], _hooks_useFetch__WEBPACK_IMPORTED_MODULE_10__.useFetchGet]);
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (App);
 
 
@@ -937,7 +937,7 @@ const EntryEditor = ({ resolve, reject, readOnly, entry, refreshTable }) => {
 };
 _a = EntryEditor;
 __webpack_require__.$Refresh$.register(_a, "EntryEditor");
-_b(EntryEditor, "0t1cAjo1GqUFF1vOVjwulYS7EDU=", false, () => [react_hook_form__WEBPACK_IMPORTED_MODULE_1__.useForm, react_i18next__WEBPACK_IMPORTED_MODULE_8__.useTranslation, _hooks_useFetch__WEBPACK_IMPORTED_MODULE_3__.useFetchPost, _hooks_useFetch__WEBPACK_IMPORTED_MODULE_3__.useFetchPut]);
+_b(EntryEditor, "GW455SqGa6sytiP2K3G02WNqGQI=", false, () => [react_hook_form__WEBPACK_IMPORTED_MODULE_1__.useForm, react_i18next__WEBPACK_IMPORTED_MODULE_8__.useTranslation, _hooks_useFetch__WEBPACK_IMPORTED_MODULE_3__.useFetchPost, _hooks_useFetch__WEBPACK_IMPORTED_MODULE_3__.useFetchPut]);
 EntryEditor.propTypes = {
     resolve: (prop_types__WEBPACK_IMPORTED_MODULE_9___default().func),
     reject: (prop_types__WEBPACK_IMPORTED_MODULE_9___default().func),
